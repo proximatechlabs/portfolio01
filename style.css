@@ -224,18 +224,7 @@ color: #ababab;
     color: green;
 }
 
-#contact .btn{
-    margin: 30px 0;
-    padding: 10px ;
-    width:30%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    border-radius: 20px;
-    cursor: pointer;
-    background-color: #080808;
-    
-}
+
 
 #contact h1{
     text-align: center;
@@ -314,10 +303,6 @@ nav .fas
 
     #contact h2{
         font-size: 16px;
-    }
-
-    #contact .btn{
-        width: 45%;
     }
 
     #contact h1{
